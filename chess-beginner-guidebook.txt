@@ -1,3 +1,5 @@
+This text file contains example logic used to support
+beginner-friendly chess learning explanations.
 import pygame
 import chess
 import random
@@ -1379,3 +1381,4 @@ def main():
 # 프로그램 시작
 if __name__ == "__main__":
     main()
+
